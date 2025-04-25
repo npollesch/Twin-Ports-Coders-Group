@@ -7,3 +7,10 @@ This GitHub Repo was created to facilitate group sharing of code and communicati
   + And ways to get involved
 
 Any questions can be directed to andrea.borich22-at-gmail.com or nate.pollesch-at-gmail.com
+
+### Meeting Schedule
+| Date | Topic | Presenter |
+|---|---|---|
+|March 20|Kick-off|Andrea and Nate|
+|May 15|GitHub 101|Nate|
+|July?| | |
