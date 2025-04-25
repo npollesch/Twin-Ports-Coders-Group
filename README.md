@@ -10,7 +10,8 @@ This GitHub Repo was created to facilitate group sharing of code and communicati
 Any questions can be directed to andrea.borich22-at-gmail.com or nate.pollesch-at-gmail.com
 
 <dl style="font-size: 6vw; background-image: url('https://github.com/user-attachments/assets/1249b4a1-d082-45de-9965-59e93607faab');background-size: cover; margin: 0;"> 
-  
+  ![TPCG_Backgroundimage2](https://github.com/user-attachments/assets/29d21896-1f1f-452e-a2fb-53e25d3d20f4)
+
 ### Meeting Schedule
 | Date | Topic | Presenter |
 |---|---|---|
@@ -20,7 +21,7 @@ Any questions can be directed to andrea.borich22-at-gmail.com or nate.pollesch-a
 
 </dl>
 
-![A photo of a laptop sitting beside the ocean, with the text Twin Port Coders Group written across the top. The Laptop reads Come and bring your lunch and talk coding. All are welcome from the TPCG Organizers.](https://github.com/user-attachments/assets/1249b4a1-d082-45de-9965-59e93607faab)
+![A photo of a laptop sitting beside the ocean, with the text Twin Port Coders Group written across the top. The Laptop reads Come and bring your lunch and talk coding. All are welcome from the TPCG Organizers.](https://github.com/user-attachments/assets/29d21896-1f1f-452e-a2fb-53e25d3d20f4)
 
 
 
