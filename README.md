@@ -16,11 +16,10 @@ Any questions can be directed to andrea.borich22-at-gmail.com or nate.pollesch-a
 |---|---|---|
 |March 20|Kick-off|Andrea and Nate|
 |May 15|GitHub 101|Nate|
-|July?| | |
 
 </dl>
 
-![A photo of a laptop sitting beside the ocean, with the text Twin Port Coders Group written across the top. The Laptop reads Come and bring your lunch and talk coding. All are welcome from the TPCG Organizers.](https://github.com/user-attachments/assets/1249b4a1-d082-45de-9965-59e93607faab)
+![A photo of a laptop sitting beside the ocean, with the text Twin Port Coders Group written across the top. The Laptop reads Come and bring your lunch and talk coding. All are welcome from the TPCG Organizers.](https://github.com/user-attachments/assets/a6b832b7-2260-480f-967a-d5f24e2dd0d8)
 
 
 
